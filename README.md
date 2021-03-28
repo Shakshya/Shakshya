@@ -17,6 +17,16 @@ Rumors spread faster than fire.That can burn down peaceful society to ashes. Fak
 
 Spreading of fake news have possibility of initiating riots or bringing chaos in society. Our project aims at curbing possibility of riots spreed by sharing of fake news. "Precaution is better than cure",so I detect fake news that can fire unrest in society and can alarm .
 
+**My Code**
+
+- Web application [Frontend](https://github.com/Shakshya/frontend)
+
+- Android Application: [Frontend](https://github.com/Shakshya/Android-App)
+
+- Backend : [Backend](https://github.com/Shakshya/Backend)
+
+
+
 **My Creators**
 
 - Sushil Kumar: [sushilkumar20](https://github.com/sushilkumar20)
