@@ -12,7 +12,8 @@
 **Why, I was Created**
 
 Rumors spread faster than fire.That can burn down peaceful society to ashes. Fake news is false or misleading information presented as news.It often has the aim of damaging the reputation of a person or entity, or making money through advertising revenue. In today's digital world Fake news is spreading with thundering speed on social media like twitter,Instagram,or by some website.
-Spreading of fake news have possibility of initiating riots or bringing chaos in society. Our project aims at curbing possibility of riots spreed by sharing of fake news. "Precaution is better than cure",so our project I detect fake news that can fire unrest in society and can alarm .
+<br>
+Spreading of fake news have possibility of initiating riots or bringing chaos in society. Our project aims at curbing possibility of riots spreed by sharing of fake news. "Precaution is better than cure",so I detect fake news that can fire unrest in society and can alarm .
 
 **My Creators**
 
